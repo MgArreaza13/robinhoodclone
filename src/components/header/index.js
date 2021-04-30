@@ -19,11 +19,11 @@ function Header() {
         </HeaderSearchContainer>
       </HeaderSearch>
       <HeaderMenuItems>
-        <a href="#">Free Stocks</a>
-        <a href="#">Portfolio</a>
-        <a href="#">Cash</a>
-        <a href="#">Messages</a>
-        <a href="#">Free Stocks</a>
+        <a href="/">Free Stocks</a>
+        <a href="/">Portfolio</a>
+        <a href="/">Cash</a>
+        <a href="/">Messages</a>
+        <a href="/">Free Stocks</a>
       </HeaderMenuItems>
     </HeaderContainer>
   );
